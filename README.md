@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ata Soytürk</h1>
-- 🌱 I’m currently learning **Data Structurs, and Computer Organization**
+- 🌱 I’m currently learning **Data Structures, and Computer Organization**
 
 - 📫 How to reach me **atasoyturkk@gmail.com**
 
