@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Ata Soytürk</h1>
-<h3 align="center">Data Science & Machine Learning Enthusiast</h3>
 
 -  Currently interning in data analysis, data visualization and machine learning**
 -  Passionate about turning raw data into meaningful insights
